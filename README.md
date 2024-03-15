@@ -1,4 +1,4 @@
-# [SDF06] Project: Mobile App
+# [SDF07] Project: Mobile App
 
 # Project Brief: Build a Mobile App with Firebase
 
